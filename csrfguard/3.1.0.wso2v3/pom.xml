@@ -75,7 +75,7 @@
     </build>
 
     <properties>
-        <version.csrfguard>3.1.0-wso2v1</version.csrfguard>
+        <version.csrfguard>3.1.0-wso2v2</version.csrfguard>
         <javax.servlet.version>[2.6.0,3.0.0)</javax.servlet.version>
         <javax.servlet.jsp.version>[2.2.0,2.3.0)</javax.servlet.jsp.version>
     </properties>
